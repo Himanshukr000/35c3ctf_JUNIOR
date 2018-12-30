@@ -19,6 +19,7 @@ To Start with We're presented with a static webpage which has nothing . So I fir
 
 
 Ran __main.py__ for the /backup/.DS_Store and Got this 
+
 ![2](2.png). 
 
 We got the subdirectories under /backup. Then i tried to look for more .DS_Store files under /backup/a , /b , /c.
