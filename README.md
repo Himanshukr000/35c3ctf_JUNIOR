@@ -1,1 +1,1 @@
-# 35c3ctf_JUNIOR
+# McDonald's
